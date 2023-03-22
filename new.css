@@ -1,0 +1,35 @@
+#userscore{
+    /* background-color:black; */
+    border-radius: 1pc;
+    margin-left: 10pc;
+    margin-top: 5pc;
+    height: 10vh;
+    width: 20pc;
+    color: black;
+    border-color: rgb(5, 5, 200);
+}
+
+body{
+    background-color: aqua;
+    background-image:linear-gradient(rgb(181, 247, 247),hsla(0, 0%, 100%, 0.978))
+}
+
+button{
+    margin-left: 18pc;
+    width: 5pc;
+    background-color: yellow;
+    margin-bottom: 2pc;
+    border-radius: 1pc;
+    font-size: x-large;
+}
+div{
+    margin: auto;
+    background-color: white;
+    width: 40pc;
+    margin-top: 7pc;
+    border-radius: 1pc;
+}
+#showScore{
+    margin: auto;
+    font-size: 4pc;
+}
